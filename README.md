@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm exzyyy</h1>
 <h3 align="center">I'm a decent coder, video editor, Semi-Youtuber</h3>
 
-[![](https://visitcount.itsvg.in/api?id=exzyyywakeup&icon=2&color=12)](https://visitcount.itsvg.in)
+![](https://visitcount.itsvg.in/api?id=exzyyywakeup&icon=2&color=12)
 
 🔭 I’m currently working on [Apex-NoRecoil-2023](https://github.com/exzyyywakeup/Apex-NoRecoil-2023)<br>⚡ Fun fact **exzyyy means easy**
 
