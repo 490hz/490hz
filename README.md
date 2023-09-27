@@ -1,19 +1,15 @@
 <h1 align="center">Hi 👋, I'm exzyyy</h1>
 <h3 align="center">I'm a decent coder, video editor, Semi-Youtuber</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=exzyyy&label=Profile%20views&color=0e75b6&style=flat" alt="exzyyy" /> </p>
+[![](https://visitcount.itsvg.in/api?id=exzyyywakeup&icon=2&color=12)](https://visitcount.itsvg.in)
 
-- 🔭 I’m currently working on [Apex-NoRecoil-2023](https://github.com/exzyyywakeup/Apex-NoRecoil-2023)
+🔭 I’m currently working on [Apex-NoRecoil-2023](https://github.com/exzyyywakeup/Apex-NoRecoil-2023)<br>⚡ Fun fact **exzyyy means easy**
 
-- ⚡ Fun fact **exzyyy means easy**
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://www.youtube.com/c/exzyyyoff" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="exzyyyoff" height="30" width="40" /></a>
-<a href="https://discord.gg/https://discord.gg/m2ME7kBKer" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="https://discord.gg/m2ME7kBKer" height="30" width="40" /></a>
-</p>
+## 🌐 Socials:
+[![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/https://discord.gg/m2ME7kBKer) [![Twitch](https://img.shields.io/badge/Twitch-%239146FF.svg?logo=Twitch&logoColor=white)](https://twitch.tv/exzyyywakeup) [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://youtube.com/@exzyyyoff) 
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://dotnet.microsoft.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dot-net/dot-net-original-wordmark.svg" alt="dotnet" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> </p>
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=exzyyywakeup&show_icons=true&locale=en" alt="exzyyy" /></p>
+# 💻 Tech Stack:
+![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white) ![Lua](https://img.shields.io/badge/lua-%232C2D72.svg?style=for-the-badge&logo=lua&logoColor=white) ![.Net](https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white)
+# 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=exzyyywakeup&theme=swift&hide_border=true&include_all_commits=false&count_private=false)<br/>
