@@ -9,8 +9,8 @@
 <summary> More about my coding life</summary>
 <br />
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=exzyyywakeup&layout=compact&hide=css,html)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=490hz&layout=compact&hide=css,html)
 
-![Zheeeng's github stats](https://github-readme-stats.vercel.app/api?username=exzyyywakeup&count_private=true&show_icons=true&theme=onedark)
+![Zheeeng's github stats](https://github-readme-stats.vercel.app/api?username=490hz&count_private=true&show_icons=true&theme=onedark)
 
 </details>
