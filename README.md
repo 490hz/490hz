@@ -12,10 +12,6 @@
         <p align="left">
           <i>« Everything is possible. »</i>
         </p>
-        <p align="left">
-<img src="https://img.shields.io/badge/Focus-MAKE%20FOR%20FREE%20FOR%20EVERYONE-111116?style=for-the-badge&labelColor=0a0a0d&color=e05275" />
-<img src="https://img.shields.io/badge/Status-Successfully-111116?style=for-the-badge&labelColor=0a0a0d&color=f5d0c5" />
-        </p>
       </td>
     </tr>
   </table>
