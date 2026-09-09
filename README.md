@@ -10,7 +10,7 @@
           <img src="https://readme-typing-svg.demolab.com?font=Cinzel&weight=600&size=28&duration=4000&pause=1000&color=E05275&center=false&vCenter=true&random=false&width=420&lines=490HZ;Reverse+Engineering+%26+C%2B%2B" alt="Typing SVG" />
         </h1>
         <p align="left">
-          <i>« Everything is possible. »</i>
+          <i>« Everything is possible »</i>
         </p>
       </td>
     </tr>
